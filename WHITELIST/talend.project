@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_1Hm9YETOEeiuOeR6_tDgzQ" label="whitelist" description="" language="java" technicalLabel="WHITELIST" creationDate="2018-03-28T14:28:45.000-0700" author="_1Hm9YUTOEeiuOeR6_tDgzQ" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/shmooth/tac641_whitelist.git&quot;,&quot;login&quot;:&quot;shmooth&quot;,&quot;passwd&quot;:&quot;9VAo0K4bIhIlR2oQCWexEQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI"/>
+  <TalendProperties:User xmi:id="_1Hm9YUTOEeiuOeR6_tDgzQ" login="security@company.com" firstName="security" lastName="security" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
